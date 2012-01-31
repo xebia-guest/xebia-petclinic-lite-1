@@ -6,6 +6,8 @@
 <ul>
   <li><a href="owners/search" target="blank">Find owner</a></li>
   <li><a href="vets">Display all veterinarians</a></li>
+  <li><a href="vets">Display all veterinarians</a></li>
+  <li><a href="vets">Display all veterinarians</a></li>
 </ul>
 
 
